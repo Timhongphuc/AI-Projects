@@ -7,6 +7,18 @@ The one main project at SimplestLabs in the moment is SimplestMachine (Tim AI). 
 ## Sources: 
 
 http://timhongphuc.de
+
+
+
+
 https://sheleftandisnevercomingback.framer.website
+
+
+
+
 https://huggingface.co/TimHongPhuc
+
+
+
+
 https://huggingface.co/spaces/TimHongPhuc/SimplestMachine
